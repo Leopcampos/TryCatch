@@ -1,0 +1,15 @@
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\bin\Debug\net6.0\Exercicio_TryCatch.exe
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\bin\Debug\net6.0\Exercicio_TryCatch.deps.json
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\bin\Debug\net6.0\Exercicio_TryCatch.runtimeconfig.json
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\bin\Debug\net6.0\Exercicio_TryCatch.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\bin\Debug\net6.0\Exercicio_TryCatch.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.csproj.AssemblyReference.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.AssemblyInfoInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.AssemblyInfo.cs
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\refint\Exercicio_TryCatch.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\Exercicio_TryCatch.genruntimeconfig.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Exercicio_TryCatch\obj\Debug\net6.0\ref\Exercicio_TryCatch.dll
